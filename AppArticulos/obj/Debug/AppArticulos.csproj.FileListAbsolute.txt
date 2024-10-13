@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.FormAppArticulos.resources
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\AppArticulos.exe.config
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\AppArticulos.exe
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\AppArticulos.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\dominio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\negocio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\dominio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\bin\Debug\negocio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.exe
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\AppArticulos\obj\Debug\AppArticulos.frmAgregarArticulo.resources

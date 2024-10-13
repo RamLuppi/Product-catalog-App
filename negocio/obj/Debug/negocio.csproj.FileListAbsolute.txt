@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\obj\Debug\negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\source\repos\TPFinalNivel2_Luppi\negocio\obj\Debug\negocio.pdb
