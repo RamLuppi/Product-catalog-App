@@ -10,10 +10,10 @@
 - ✅ Validaciones y manejo de excepciones
 
 ## 🛠️ Funcionalidades
-- Módulo      Descripción
-- Listado	    Visualización de todos los artículos en una grilla.
-- Búsqueda	  Filtrado por código, nombre, marca o categoría.
-- Alta	      Agregar nuevos artículos con datos obligatorios.
-- Edición	    Modificar artículos existentes (excepto código único).
-- Eliminación	Borrado lógico/físico (según requerimientos).
-- Detalle	    Vista ampliada con toda la información del artículo.
+- Módulo: Descripción.
+- Listado: Visualización de todos los artículos en una grilla.
+- Búsqueda: Filtrado por código, nombre, marca o categoría.
+- Alta: Agregar nuevos artículos con datos obligatorios.
+- Edición: Modificar artículos existentes (excepto código único).
+- Eliminación: Borrado lógico/físico (según requerimientos).
+- Detalle: Vista ampliada con toda la información del artículo.
